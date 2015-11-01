@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+<repo priority="50" status="unofficial">
+	<name>ramdziana</name>
+	<description>Ramdziana profile and Packages</description>
+	<homepage>http://github.com/rafeyu/gentoo-overlay</homepage>
+	<owner>
+		<email>ramdzian@gmail.com</email>
+		<name>Ramdziana Feri Yustitianto</name>
+	</owner>
+	<source type="git">git://github.com/rafeyu/gentoo-overlay.git</source>
+	<feed>https://github.com/rafeyu/gentoo-overlay/commits/master.atom</feed>
+</repo>
+</repositories>
