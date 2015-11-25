@@ -12,7 +12,7 @@ LICENSE="GPL-2"
 SLOT="0"
 KEYWORDS="amd64 ~x86"
 
-RDPEND=""
+RDEPEND=""
 DEPEND="${RDEPEND}
 	dev-qt/qtcore
 	dev-qt/qtscript
